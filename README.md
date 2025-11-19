@@ -1,5 +1,7 @@
 
-https://image.aladin.co.kr/product/34577/50/cover500/e752533652_1.jpg
+
+![이미지 설명](https://image.aladin.co.kr/product/34577/50/cover500/e752533652_1.jpg)
+
 2025. 11 - 2025. 12
 🍎About
 HTML, CSS, JavsScript의 기초 지식을 기르고 실제로 적용하는 것을 목표로 합니다.
