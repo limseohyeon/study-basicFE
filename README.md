@@ -11,13 +11,16 @@ HTML, CSS, JavsScript의 기초 지식을 기르고 실제로 적용하는 것�
 Do it! HTML+CSS+자바스크립트 웹 표준의 정석 (전면 개정판)
 
 🏁Table of Contents
-1주차
- *추후 협의
-2주차
- *추후 협의
+| 주차 | 분량 |
+| --- | --- |
+| 1주차 | #HTML : Chapter 01 ~ 05
+#Javascript : Chapter 15 ~ 16 |
+| 2주차 | #Javascript : Chapter 17 ~ 19 |
+| 3주차 | #CSS : Chapter 06 ~ 10 |
+| 4주차 | #CSS : Chapter 11 ~ 14 |
  
 ⚠️Study Rule
-- 일자: 주 1회 요일 협의 필요
+- 일자: 매주 목요일 저녁, Zoom
 - 주제별 정리
 - 이론 정리, 실습, 자료 업로드, 질의 응답
 - 스터디날까지 각자 질문 최소 1개 생각해오기
