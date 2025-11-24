@@ -13,8 +13,7 @@ Do it! HTML+CSS+자바스크립트 웹 표준의 정석 (전면 개정판)
 🏁Table of Contents
 | 주차 | 분량 |
 | --- | --- |
-| 1주차 | #HTML : Chapter 01 ~ 05
-#Javascript : Chapter 15 ~ 16 |
+| 1주차 | #HTML : Chapter 01 ~ 05 #Javascript : Chapter 15 ~ 16 |
 | 2주차 | #Javascript : Chapter 17 ~ 19 |
 | 3주차 | #CSS : Chapter 06 ~ 10 |
 | 4주차 | #CSS : Chapter 11 ~ 14 |
